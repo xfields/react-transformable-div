@@ -1,4 +1,4 @@
-# react-transformable-widget
+# react-transformable-div
 ---
 A transformable (dragable, scalable, rotatable) wrapper.
 
