@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react/lib/ReactDOM'
-import TransformableDiv from '../src/index.jsx'
+import TransformableDiv from '../index.jsx'
 
 class Test extends React.Component {
   state = {
