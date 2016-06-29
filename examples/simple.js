@@ -33,7 +33,7 @@ class Test extends React.Component {
             ref="widget"
             initWidth="960"
             initHeight="540"
-            rotateWise="unclockwise"
+            rotateWise="anticlockwise"
             onDrag={this._update.bind(this)}
             onRotate={this._update.bind(this)}
             onZoom={this._update.bind(this)}

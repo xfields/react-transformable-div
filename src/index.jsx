@@ -29,7 +29,7 @@ class TransformableDiv extends Component {
     initTopOffset: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
     initLeftOffset: PropTypes.oneOfType([PropTypes.number, PropTypes.string]),
     enableRotate: PropTypes.bool,
-    rotateWise: PropTypes.oneOf(['clockwise', 'unclockwise']),
+    rotateWise: PropTypes.oneOf(['clockwise', 'anticlockwise']),
     onRotate: PropTypes.func,
     enableDrag: PropTypes.bool,
     onDrag: PropTypes.func,
