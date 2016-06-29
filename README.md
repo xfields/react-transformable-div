@@ -23,7 +23,6 @@ render() {
 ```
 
 ## API
-todo
 
 props
 
