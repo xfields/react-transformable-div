@@ -55,4 +55,4 @@ http://localhost:8003/examples/
 
 ## License
 
-rc-switch is released under the MIT license.
+react-transformable-widget is released under the MIT license.
