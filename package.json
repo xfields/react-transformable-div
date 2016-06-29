@@ -1,0 +1,38 @@
+{
+  "name": "react-transformable-div",
+  "version": "1.0.0",
+  "description": "A transformable (dragable, scalable, rotatable) wrapper for react.",
+  "main": "index.js",
+  "config": {
+    "port": 8003
+  },
+  "scripts": {
+    "start": "rc-tools run server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiefei89/react-transformable-div.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "transformable",
+    "rotatable",
+    "dragable",
+    "scalable",
+    "zoom"
+  ],
+  "author": "xiefei89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiefei89/react-transformable-div/issues"
+  },
+  "homepage": "https://github.com/xiefei89/react-transformable-div#readme",
+  "devDependencies": {
+    "rc-tools": "5.x"
+  },
+  "dependencies": {
+    "react": "0.14.x"
+  }
+}
